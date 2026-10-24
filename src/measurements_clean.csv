@@ -1,0 +1,8 @@
+region,station,rsrp_dbm,signal_status
+Yasamal,BAK-01,-108.7,Zeif
+Nizami,BAK-02,-95.5,Normal
+Nəsimi,BAK-03,-102.1,Zeif
+Yasamal,BAK-04,-99.2,Normal
+Nizami,BAK-05,-87.4,Normal
+Nəsimi,BAK-06,-105.8,Zeif
+ yasamal ,BAK-07,-101.4,Zeif
